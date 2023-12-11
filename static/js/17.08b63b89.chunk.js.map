@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/categories/index.js"],"names":["Categories"],"mappings":"0HAMeA,UAJI,WACjB,OAAO","file":"static/js/17.08b63b89.chunk.js","sourcesContent":["import React from \"react\";\n\nconst Categories = () => {\n  return <div>Categories component works</div>;\n};\n\nexport default Categories;\n"],"sourceRoot":""}

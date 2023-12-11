@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/goods/index.js"],"names":["Catalog"],"mappings":"0HAMeA,UAJC,WACd,OAAO","file":"static/js/18.1fa0df0d.chunk.js","sourcesContent":["import React from \"react\";\n\nconst Catalog = () => {\n  return <div>Goods component works</div>;\n};\n\nexport default Catalog;\n"],"sourceRoot":""}
