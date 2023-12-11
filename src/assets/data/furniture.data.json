@@ -1,0 +1,14 @@
+[
+  {
+    "id": "photo1",
+    "src": "/img/furniture/object1.png"
+  },
+  {
+    "id": "photo2",
+    "src": "/img/furniture/object2.png"
+  },
+  {
+    "id": "photo3",
+    "src": "/img/furniture/object3.png"
+  }
+]
